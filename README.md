@@ -3,7 +3,8 @@
 ## 使用
 
 - 下载最新 [Releases](https://github.com/Souma-Sumire/FFXIVChnTextPatch-Souma/releases/latest/)
-- 将 `汉化文件.7z` 解压，得到 6 个文件覆盖到 `...\FINAL FANTASY XIV - A Realm Reborn\game\sqpack\ffxiv\`
+- 若下载速度慢，可尝试使用 [Github 增强 - 高速下载](https://greasyfork.org/zh-CN/scripts/412245-github-%E5%A2%9E%E5%BC%BA-%E9%AB%98%E9%80%9F%E4%B8%8B%E8%BD%BD)（第三方脚本，自行承担风险）
+- 将 `zhcn.7z` 解压，得到 6 个文件覆盖到 `...\FINAL FANTASY XIV - A Realm Reborn\game\sqpack\ffxiv\`
 
 ## 说明
 
