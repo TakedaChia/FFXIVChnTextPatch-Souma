@@ -3,8 +3,8 @@
 ## 使用
 
 - 下载最新 [Releases](https://github.com/Souma-Sumire/FFXIVChnTextPatch-Souma/releases/latest/)。若下载速度慢，可尝试使用 [Github 增强 - 高速下载](https://greasyfork.org/zh-CN/scripts/412245-github-%E5%A2%9E%E5%BC%BA-%E9%AB%98%E9%80%9F%E4%B8%8B%E8%BD%BD)（第三方脚本，自行承担风险）
-- 将 `文本部分.7z` 解压得到的 3 个文件覆盖到 `...\FINAL FANTASY XIV - A Realm Reborn\game\sqpack\ffxiv\`
-- 如果你没有中文字体的UI补丁，则还需要对 `字库部分.7z` 同样进行覆盖操作。
+- 将 `zhch_text.7z` 解压得到的 3 个文件覆盖到 `...\FINAL FANTASY XIV - A Realm Reborn\game\sqpack\ffxiv\`
+- 如果你没有中文字体的UI补丁，则还需要对 `zhch_font.7z` 同样进行覆盖操作。
 
 ## 说明
 
