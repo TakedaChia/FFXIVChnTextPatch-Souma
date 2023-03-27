@@ -28,3 +28,6 @@
 ![image](https://user-images.githubusercontent.com/33572696/228081085-5b21c148-c038-4114-a9da-70f04043d5ed.png)
 ![image](https://user-images.githubusercontent.com/33572696/228081259-3aad07c9-b802-4089-a30b-c1593cfc3a87.png)
 ![image](https://user-images.githubusercontent.com/33572696/228081325-693231c0-b219-4706-b753-a73ca44f6f11.png)
+
+### 更多
+使用[FFXIV-FontChanger](https://github.com/Soreepeong/FFXIV-FontChanger)自行制作
