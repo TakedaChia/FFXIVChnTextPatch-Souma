@@ -12,10 +12,9 @@
 - 本汉化针对 ACT 与第三方科技兼容开发，因此存在一部分故意漏翻译的地方，例如地名与人名。
 - 剧情文本与一些无关紧要却十分繁琐的内容不会被汉化，因为工作量过大。一些技改文本可能不会及时跟进。
 
-## 版权相关
+## 版权
 
 - 使用的打包器为 [FFXIVChnTextPatch-GP](https://github.com/GpointChen/FFXIVChnTextPatch-GP)
-- 使用的字体为由[catloaf制作的苹方字体](https://bbs.tggfl.com/topic/221/%E5%9B%9B%E6%AC%BE%E6%9B%BF%E6%8D%A2%E7%94%A8-ui-%E5%AD%97%E4%BD%93-%E9%BB%91-%E5%AE%8B-%E5%9C%86-%E5%9B%BD%E9%99%85%E6%9C%8D%E5%9B%BD%E6%9C%8D%E5%8F%8C%E7%89%88%E6%9C%AC)
 
 ## 参与翻译
 
@@ -24,3 +23,8 @@
 ## 捐贈
 
 - [afdian](https://afdian.net/a/Souma)
+
+## 字形预览
+![image](https://user-images.githubusercontent.com/33572696/228081085-5b21c148-c038-4114-a9da-70f04043d5ed.png)
+![image](https://user-images.githubusercontent.com/33572696/228081259-3aad07c9-b802-4089-a30b-c1593cfc3a87.png)
+![image](https://user-images.githubusercontent.com/33572696/228081325-693231c0-b219-4706-b753-a73ca44f6f11.png)
