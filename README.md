@@ -10,8 +10,9 @@
 ## 使用
 
 - 访问本项目的 [Releases](https://github.com/Souma-Sumire/FFXIVChnTextPatch-Souma/releases/)。若下载速度慢，可尝试使用 [Github 增强 - 高速下载](https://greasyfork.org/zh-CN/scripts/412245-github-%E5%A2%9E%E5%BC%BA-%E9%AB%98%E9%80%9F%E4%B8%8B%E8%BD%BD)（第三方脚本，自行承担风险）
-- 分别下载 `文本部分` 与 `字库部分` 的文件，并选择适合自己的方式进行加载。
-- 文件覆盖至 `...\FINAL FANTASY XIV - A Realm Reborn\game\sqpack\ffxiv\`
+- 下载 `字库部分` 文件，并选择适合自己的方式加载。一般来说，这里几乎不会更新，只做一次即可。
+- 下载 `文本部分` 文件。
+- 需要覆盖的文件放到 `...\FINAL FANTASY XIV - A Realm Reborn\game\sqpack\ffxiv\` 
 
 ### 懒人一图流
 ![image](https://user-images.githubusercontent.com/33572696/228306974-4a15439f-ed36-48be-a01c-bb35fb3b6758.png)
