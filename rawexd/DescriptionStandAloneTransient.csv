@@ -1,0 +1,16 @@
+﻿key,0,1,2
+#,,,
+offset,8,0,4
+int32,uint32,str,str
+0,0,,
+1,0,,
+2,5,DATA,档案
+3,6,NEW GAME+,昔日重现模式解说
+4,13,LOST ACTION,失传技能解说
+5,21,PORTRAIT LIST,肖像解说
+6,22,ADVENTURER PLATE,冒险者铭牌解说
+7,23,ISLAND SANCTUARY,开拓无人岛解说
+8,24,ISLEWORKS BEGINNER'S GUIDE,开拓工房入门手册
+9,25,DEEP DUNGEON,深层迷宫解说
+10,26,DEEP DUNGEON,深层迷宫解说
+11,27,DEEP DUNGEON,深层迷宫解说
