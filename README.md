@@ -21,6 +21,4 @@
 
 - [crowdin](https://zh.crowdin.com/project/ffxiv-localization/zh-CN)
 
-## 捐贈
-![image](https://user-images.githubusercontent.com/33572696/229760593-3eb8ac72-2c7f-472c-9f00-12aa8b17bbed.png)
 
